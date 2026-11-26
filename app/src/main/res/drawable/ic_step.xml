@@ -1,0 +1,6 @@
+<!-- 启动图标与提醒图标共享同一个阶梯路径。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">
+    <path android:fillColor="#146555" android:pathData="M5,5H43V43H5Z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M11,33H20V26H27V19H37V14H22V21H15V28H11Z"/>
+</vector>
